@@ -110,5 +110,5 @@ React/Vue.js :
 Контакты
 Если у вас есть вопросы или предложения по проекту, пожалуйста, свяжитесь с нами:
 
-Email: example@example.com
+Email: zotyuri@yandex.ru
 Telegram: https://web.telegram.org/k/#@YuriZot_bot
