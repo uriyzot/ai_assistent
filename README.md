@@ -110,5 +110,4 @@ React/Vue.js :
 Если у вас есть вопросы или предложения по проекту, пожалуйста, свяжитесь с нами:
 
 Email: example@example.com
-Telegram: @example
-GitHub: https://github.com/example
+Telegram: https://web.telegram.org/k/#@YuriZot_bot
