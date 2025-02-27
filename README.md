@@ -1,5 +1,5 @@
 ссылка на проект:https://web.telegram.org/k/#@YuriZot_bot
-ИИ.jpeg
+https://github.com/uriyzot/ai_assistent/blob/main/%D0%98%D0%98.jpeg?raw=true
 Проект: ИИ-ассистент
 Оглавление
 Введение
